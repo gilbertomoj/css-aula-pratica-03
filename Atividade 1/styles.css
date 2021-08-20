@@ -1,0 +1,20 @@
+#text1{
+    size: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#text2{
+    size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#text3{
+    size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#text4{
+    size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#text5{
+    size: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
